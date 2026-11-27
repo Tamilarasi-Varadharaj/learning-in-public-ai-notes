@@ -1,0 +1,2 @@
+# Comments start with a hash
+.env                # Ignores a specific file
